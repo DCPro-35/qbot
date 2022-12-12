@@ -1,0 +1,22 @@
+{
+    "chatGPT": {
+        "session_token": "这里换成你自己的token，先不要用账号密码",
+        "email": "",
+        "password": "",
+        "cf_clearance": "这里也换成你自己的",
+        "user_agent": "这里也是"
+    },
+    "qq_bot": {
+        "qq_no": "1695219196",
+        "cqhttp_url": "http://localhost:8700",
+        "max_length": 150,
+        "image_path": "../QBot/data/images"
+    },
+    "text_to_image": {
+        "font_size": 30,
+        "width": 700,
+        "font_path": "fonts/sarasa-mono-sc-regular.ttf",
+        "offset_x": 50,
+        "offset_y": 50
+    }
+}
